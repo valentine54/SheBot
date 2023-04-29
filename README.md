@@ -1,3 +1,3 @@
 # SheBot
-New repo
+#About me
 Trying this Github thing!
